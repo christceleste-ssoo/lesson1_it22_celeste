@@ -4,6 +4,6 @@
 - Calculator 
 - Addition
 - Subtraction
-- multiplying
+- Multiplying
 - Division
 
