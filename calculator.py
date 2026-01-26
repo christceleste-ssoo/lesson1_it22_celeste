@@ -1,5 +1,7 @@
 # CALCULATOR IN PYTHON
-
+# Escrupolo:
+def subtract(a, b):
+    return a - b
 # The Four(4) Basic Operations
 - Calculator 
 - Addition
