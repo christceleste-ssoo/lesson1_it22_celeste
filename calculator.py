@@ -8,6 +8,12 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
+# Lagnada:
+
+def divide(a, b):
+    if b == 0:
+        return "Error: Cannot divide by zero"
+    return a / b
 
 # The Four(4) Basic Operations
 - Calculator 
