@@ -1,7 +1,14 @@
 # CALCULATOR IN PYTHON
+
+# CONDE:
+def add(a, b):
+    return a + b
+
 # Escrupolo:
 def subtract(a, b):
     return a - b
+
+
 # The Four(4) Basic Operations
 - Calculator 
 - Addition
