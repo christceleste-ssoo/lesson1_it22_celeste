@@ -1,5 +1,9 @@
 # CALCULATOR IN PYTHON
 
+# MULATO:
+def multiply(a, b):
+    return a * b
+
 # CONDE:
 def add(a, b):
     return a + b
